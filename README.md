@@ -1,3 +1,9 @@
+first page 
+![screenshot](https://github.com/lokeshraj851134/moviezilla/assets/121623164/9fa3f3de-1cdf-474c-905b-159722878ff6)
+
+search page
+![screenshot (1)](https://github.com/lokeshraj851134/moviezilla/assets/121623164/ae22a58a-51bf-483d-9ef5-698abdeedf88)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
